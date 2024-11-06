@@ -1,8 +1,8 @@
-#Customer-data-set-Dstv-customer-subscription-analysis
+# Customer-data-set-Dstv-customer-subscription-analysis
 
-#DStv Customers Subscription Analysis
+### DStv Customers Subscription Analysis
 
-Executive Summary
+### Executive Summary
 
 This comprehensive analysis examines DStv's customer subscription trends, uncovering key insights into customer behavior, preferences, and regional patterns.
 
